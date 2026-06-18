@@ -4,6 +4,9 @@ https://search.brave.com/ask?q=%s
 Brave Search
 https://search.brave.com/search?q=%s
 
+Medium:
+https://medium.com/search?q=%s
+
 Reddit:
 https://www.reddit.com/search?q=%s
 
