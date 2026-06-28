@@ -4,6 +4,9 @@ https://search.brave.com/ask?q=%s
 Brave Search
 https://search.brave.com/search?q=%s
 
+IMDb
+https://www.imdb.com/find/?q=%s
+
 Medium:
 https://medium.com/search?q=%s
 
