@@ -1,3 +1,6 @@
+Anna's Archive
+https://annas-archive.gl/search?q=%s
+
 Brave Leo
 https://search.brave.com/ask?q=%s
 
