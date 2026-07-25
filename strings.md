@@ -31,5 +31,8 @@ https://www.reddit.com/r/%s
 YouTube
 https://m.youtube.com/results?search_query=%s
 
+YT Channels
+https://m.youtube.com/@%s
+
 YT Music
 https://music.youtube.com/results?search_query=%s
