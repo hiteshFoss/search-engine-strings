@@ -1,3 +1,6 @@
+Amazon
+https://www.amazon.in/s?k=%s
+
 Anna's Archive
 https://annas-archive.gl/search?q=%s
 
