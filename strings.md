@@ -22,6 +22,9 @@ https://ollama.com/search?q=%s
 Reddit:
 https://www.reddit.com/search?q=%s
 
+roadmap.sh
+https://www.roadmap.sh/%s
+
 Subreddits:
 https://www.reddit.com/r/%s
 
