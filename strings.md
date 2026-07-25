@@ -16,6 +16,9 @@ https://www.imdb.com/find/?q=%s
 Medium:
 https://medium.com/search?q=%s
 
+Ollama
+https://ollama.com/search?q=%s
+
 Reddit:
 https://www.reddit.com/search?q=%s
 
