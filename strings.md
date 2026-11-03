@@ -28,6 +28,9 @@ https://www.roadmap.sh/%s
 Subreddits:
 https://www.reddit.com/r/%s
 
+Weblib eBooks
+https://welib.st/search?q=%s
+
 YouTube
 https://m.youtube.com/results?search_query=%s
 
